@@ -1,30 +1,22 @@
-# React + TypeScript + Vite
+## Pani - Pure Hydration, Delivered to Your Doorstep
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Pani is your premier destination for pure, refreshing water delivered directly to your doorstep. Our commitment is to provide the highest quality water with convenience and reliability, ensuring you stay hydrated and healthy.
 
-Currently, two official plugins are available:
+## Features
+**High-Quality Water:** Our water goes through rigorous purification processes to ensure the highest quality and purity.
+Convenient Delivery: Schedule deliveries at your convenience and never run out of clean, fresh water.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+**Flexible Plans:** Choose from a variety of delivery plans that suit your needs, whether it's a one-time order or a recurring subscription.
 
-## Expanding the ESLint configuration
+**Sustainable Packaging:** Our eco-friendly packaging options help reduce plastic waste and promote sustainability.
+Customer Support: Our dedicated support team is here to assist you with any questions or concerns.
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+## How It Works
+**Sign Up:** Create an account on our website.
 
-- Configure the top-level `parserOptions` property like this:
+**Choose Water Type:** Select the type of the water (Filtered or Alkaline water).
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
+**Set Your Schedule:** Pick the dates and frequency for your water deliveries.
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+**Enjoy:** Receive your pure, refreshing water right at your doorstep.
+
